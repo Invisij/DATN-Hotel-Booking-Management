@@ -1,0 +1,31 @@
+# Laravel & PHP
+/vendor/
+/node_modules/
+/bootstrap/cache/
+/storage/*
+!/storage/app
+!/storage/framework
+!/storage/logs
+.env
+.env.*
+.phpunit.result.cache
+
+# Node/Vite
+/node_modules/
+/public/hot
+/public/storage
+/public/build
+npm-debug.log
+yarn-error.log
+
+# IDE & OS
+.DS_Store
+*.log
+*.sqlite
+*.sqlite3
+*.bak
+*.tmp
+*.swp
+*.swo
+*.idea/
+*.vscode/
